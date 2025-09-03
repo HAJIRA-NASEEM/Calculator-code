@@ -6,11 +6,11 @@ This app allows users to perform basic arithmetic operations (+, −, ×, ÷) th
 ---
 
 ## 🚀 Features
-- 🔢 Input two numbers  
-- ➕➖✖️➗ Perform addition, subtraction, multiplication, and division  
-- ✅ Instant results with a single click  
-- ⚠️ Error handling for division by zero  
-- 🌐 Simple and modern web-based UI  
+- 🔢 **Input two numbers**  
+- ➕➖✖️➗ **Perform addition, subtraction, multiplication, and division**  
+- ✅ **Instant results with a single click**  
+- ⚠️ **Error handling for division by zero**  
+- 🌐 **Simple and modern web-based UI**  
 
 ---
 
